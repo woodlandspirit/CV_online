@@ -17,7 +17,7 @@ Acá encontrarán el resto de mis proyectos de la carrera de __Desarrollo Web Fu
 * __Proyecto 1:__ CV online
 * __Proyecto 2:__ [Home Banking](https://github.com/woodlandspirit/Home_Banking)
 * __Proyecto 3:__ [Rompecabezas](https://github.com/woodlandspirit/Rompecabezas)
-* __Proyecto 4:__ Pixel Art
+* __Proyecto 4:__ [Pixel Art](https://github.com/woodlandspirit/Pixel-art)
 * __Proyecto 5:__ Ciudad Zombie
 * __Proyecto 6:__ Reservando
 * __Proyecto 7:__ Encuestados
